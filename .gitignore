@@ -7,6 +7,12 @@
 *.iml
 out
 gen
+### Sass template
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
 ### Java template
 # Compiled class file
 *.class
